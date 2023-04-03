@@ -1,0 +1,15 @@
+/Users/chaneicejackson/workspace/EnthusiasticMoose/bin/Debug/net6.0/EnthusiasticMoose
+/Users/chaneicejackson/workspace/EnthusiasticMoose/bin/Debug/net6.0/EnthusiasticMoose.deps.json
+/Users/chaneicejackson/workspace/EnthusiasticMoose/bin/Debug/net6.0/EnthusiasticMoose.runtimeconfig.json
+/Users/chaneicejackson/workspace/EnthusiasticMoose/bin/Debug/net6.0/EnthusiasticMoose.dll
+/Users/chaneicejackson/workspace/EnthusiasticMoose/bin/Debug/net6.0/EnthusiasticMoose.pdb
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/EnthusiasticMoose.csproj.AssemblyReference.cache
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/EnthusiasticMoose.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/EnthusiasticMoose.AssemblyInfoInputs.cache
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/EnthusiasticMoose.AssemblyInfo.cs
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/EnthusiasticMoose.csproj.CoreCompileInputs.cache
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/EnthusiasticMoose.dll
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/refint/EnthusiasticMoose.dll
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/EnthusiasticMoose.pdb
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/EnthusiasticMoose.genruntimeconfig.cache
+/Users/chaneicejackson/workspace/EnthusiasticMoose/obj/Debug/net6.0/ref/EnthusiasticMoose.dll
